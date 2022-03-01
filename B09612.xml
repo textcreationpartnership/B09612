@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Objections against passing the bill as desired by the proprietors of the lights now generally used.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09612</idno>
+            <idno type="STC">Wing O85B</idno>
+            <idno type="STC">ESTC R205790</idno>
+            <idno type="EEBO-CITATION">61297111</idno>
+            <idno type="OCLC">ocm 61297111</idno>
+            <idno type="VID">180638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180638)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2838:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Objections against passing the bill as desired by the proprietors of the lights now generally used.</title>
+                  <author>Windus, Edmund.</author>
+                  <author>Hutchinson, Samuel, gent.</author>
+               </titleStmt>
+               <extent>1 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lamps --  England --  Law and legislation --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180638:1" rendition="simple:additions"/>
+            <head>OBJECTIONS Againſt Paſſing the BILL, As Deſired by the <hi>Proprietors of the Lights</hi> Now generally Uſed.</head>
+            <p>THE Patent under which they pretend to Claim, is granted to <hi>Edmund Windus,</hi>
+               <note place="margin">Theſe dre the Words of their Patent.</note> Gent. on his Petition, That he with great La<g ref="char:EOLhyphen"/>bour and Expence had obtain'd a Diſcovery of a new Experi<g ref="char:EOLhyphen"/>ment, for the great and durable Encreaſe of Light, by extraordi<g ref="char:EOLhyphen"/>nary Glaſſes and Lamps; very uſeful for the great Improvement of Ship-Lanthorns, Light-houſes: diſperſing of Light in Mines, and other neceſ<g ref="char:EOLhyphen"/>ſary and like profitable Uſes which require Light and Heat: And therefore craves a Patent for 14 Years: Which is accordingly granted.</p>
+            <p>In which Patent, are theſe Clauſes: That if the Invention thereby granted be not a new Invention: Or if <hi>Windus</hi> be not the firſt Inventor: Then the Patent to be void.</p>
+            <p>That this Patent is void in Law, is moſt evident: For theſe preſent Pro<g ref="char:EOLhyphen"/>prietors have ſuggeſted in <hi>Chancery,</hi> That the Patent was granted to <hi>Windus</hi> in truſt for one <hi>Samuel Hutchinſon:</hi> (as in truth it was.) And in truth theſe Glaſſes uſed by <hi>Hutchinſon,</hi> and now by the Proprietors, are not a new Invention: Such Glaſſes for Light having been uſed in Lanthorns, above Twenty Years ſince; as will be fully proved if required. And to convince the World that this Patent is void, ſeveral Tin-men ſet up the Proprietors own Lights againſt them, with<g ref="char:EOLhyphen"/>out any Variation. And the Proprietors brought Actions againſt them on their Patent. To which the Tin-men appeared and pleaded: And the Proprietors durſt not proceed in their Suit.</p>
+            <p>And the Perſons who now oppoſe the Proprietors, will preſently try with them the Validity of the Patent, whether good in Law, or not. And have gi<g ref="char:EOLhyphen"/>ven the Proprietors a fair Opportunity ſo to do, by having now ſet up a new and better Light of Convex-Glaſs in the City of <hi>London.</hi>
+            </p>
+            <p>That the Proprietors knowing the Invalidity of their Patent to ſupport their Pretence to the Convex-Lights: (Of which they have not a Word in their Pa<g ref="char:EOLhyphen"/>tent:) Have in the Bill inſerted a Clauſe to exclude all others from uſing Con<g ref="char:EOLhyphen"/>vex-Glaſſes. And if any body do uſe them, on Oath made thereof before a Juſtice of the Peace, that he ſhall grant his Warrant to have them taken down and delivered to the Proprietors.</p>
+            <p>Which is deſtructive and prejudicial to the Publick, tending to diſcourage Ingenuity and Invention for the publick Good: (No great or publick Light be<g ref="char:EOLhyphen"/>ing to be made but by Convex-Glaſſes:) There being a much better Light for the Publick now Invented.</p>
+            <p>So it is alſo, eſtabliſhing a Monopoly of a pretended new Invention of Con<g ref="char:EOLhyphen"/>vex-Lights: Which was many Years in Uſe before the Patent:</p>
+            <p>And executing by Act of Parliament a Patent void in Law, and which can<g ref="char:EOLhyphen"/>not by any means in Law be ſupported.</p>
+            <p>The which was never done in any time before: It having been the Wiſdom of all Parliaments rather to condemn Monopolies, than eſtabliſh them.</p>
+            <p>And whereas it is pretended, That the Proprietors have been at great Charge about the ſaid Lights, they have had about Nine Years already, and may have upon their Patent (if good) five Years more. But if naught, it is con<g ref="char:EOLhyphen"/>ceived they ought to have no Countenance.</p>
+            <p>For if a Man will lay out his Money in a bad Title, it is conceived a Parlia<g ref="char:EOLhyphen"/>ment will not make that Title good.</p>
+            <p>
+               <hi>For which REASONS it is humbly hoped the Bill ſhall not paſs.</hi>
+            </p>
+            <pb facs="tcp:180638:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
